@@ -1,4 +1,4 @@
-package mx.ipn.cic;
+package mx.ipn.cic.controllers;
 
 import java.text.DateFormat;
 import java.util.Date;
